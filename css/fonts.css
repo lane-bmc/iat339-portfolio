@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('Source-Sans-Pro-regular.eot'); /* IE9 Compat Modes */
+  src: url('Source-Sans-Pro-regular.eot?#iefix') format('embedded-opentype'), 
+       url('Source-Sans-Pro-regular.woff2') format('woff2'), 
+       url('Source-Sans-Pro-regular.woff') format('woff'), 
+       url('Source-Sans-Pro-regular.ttf')  format('truetype'),
+       url('Source-Sans-Pro-regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
